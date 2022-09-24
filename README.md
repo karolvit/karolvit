@@ -3,7 +3,7 @@
 
 
 - :computer: Estudando Sistema de Informação
-- 🌱Atualmente estou aprendendo Flutter
+- 🌱Atualmente estou aprendendo Flutter, HTML, CSS, Javascript
 
 ##
 
