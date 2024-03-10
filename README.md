@@ -20,6 +20,7 @@
 [<img height="48px" width="48px" alt="Icone bootstrap" src="https://skillicons.dev/icons?i=bootstrap"/>](https://getbootstrap.com)
 [<img height="48px" width="48px" alt="Icone MySql" src="https://skillicons.dev/icons?i=mysql"/>](https://www.mysql.com/products/workbench/)
 [<img height="48px" width="48px" alt="Icone Redux" src="https://skillicons.dev/icons?i=redux"/>](https://redux.js.org)
+[<img height="48px" width="48px" alt="Icone Redux" src="https://skillicons.dev/icons?i=tailwind"/>](https://skillicons.dev/icons?i=tailwind)
 ##
 
 #### Ferramentas que uso:
